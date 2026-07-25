@@ -63,6 +63,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/aniketpal15/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/0020-valid-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aniketpal15/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
