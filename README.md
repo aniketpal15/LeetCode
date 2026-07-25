@@ -49,6 +49,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aniketpal15/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aniketpal15/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/aniketpal15/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aniketpal15/LeetCode/tree/master/0048-rotate-image) |
@@ -111,6 +112,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aniketpal15/LeetCode/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/aniketpal15/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aniketpal15/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
