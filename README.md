@@ -35,6 +35,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/aniketpal15/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/aniketpal15/LeetCode/tree/master/0048-rotate-image) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniketpal15/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aniketpal15/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
