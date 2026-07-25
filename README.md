@@ -63,6 +63,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/aniketpal15/LeetCode/tree/master/1291-sequential-digits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniketpal15/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String
 |  |
