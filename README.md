@@ -35,6 +35,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aniketpal15/LeetCode/tree/master/0048-rotate-image) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniketpal15/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aniketpal15/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -46,6 +47,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | ------- |
 | [0011-container-with-most-water](https://github.com/aniketpal15/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/aniketpal15/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/aniketpal15/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/aniketpal15/LeetCode/tree/master/0055-jump-game) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniketpal15/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bit Manipulation
@@ -83,4 +85,8 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aniketpal15/LeetCode/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/aniketpal15/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
