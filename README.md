@@ -29,3 +29,15 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 
 ---
 *“Success is neither magical nor mysterious. Success is the natural consequence of consistently applying the basic fundamentals.”*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/aniketpal15/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/aniketpal15/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+<!---LeetCode Topics End-->
