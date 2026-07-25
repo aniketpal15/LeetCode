@@ -53,4 +53,8 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniketpal15/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/aniketpal15/LeetCode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
