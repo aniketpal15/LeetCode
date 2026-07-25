@@ -81,6 +81,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/aniketpal15/LeetCode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/aniketpal15/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniketpal15/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String
 |  |
@@ -89,6 +90,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [0012-integer-to-roman](https://github.com/aniketpal15/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aniketpal15/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/aniketpal15/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniketpal15/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Two Pointers
 |  |
