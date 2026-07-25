@@ -84,6 +84,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [0006-zigzag-conversion](https://github.com/aniketpal15/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/aniketpal15/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/0020-valid-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aniketpal15/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniketpal15/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Two Pointers
 |  |
@@ -96,6 +97,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | ------- |
 | [0011-container-with-most-water](https://github.com/aniketpal15/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/aniketpal15/LeetCode/tree/master/0055-jump-game) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aniketpal15/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,10 +111,12 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aniketpal15/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aniketpal15/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aniketpal15/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aniketpal15/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
 | ------- |
