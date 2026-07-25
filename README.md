@@ -39,6 +39,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [0048-rotate-image](https://github.com/aniketpal15/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/aniketpal15/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aniketpal15/LeetCode/tree/master/0070-climbing-stairs) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aniketpal15/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniketpal15/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aniketpal15/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -55,6 +56,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [0048-rotate-image](https://github.com/aniketpal15/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/aniketpal15/LeetCode/tree/master/0055-jump-game) |
 | [1331-rank-transform-of-an-array](https://github.com/aniketpal15/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aniketpal15/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniketpal15/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aniketpal15/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
@@ -88,6 +90,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [0055-jump-game](https://github.com/aniketpal15/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aniketpal15/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aniketpal15/LeetCode/tree/master/0070-climbing-stairs) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aniketpal15/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Stack
 |  |
 | ------- |
@@ -127,4 +130,8 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aniketpal15/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aniketpal15/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
