@@ -37,6 +37,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | ------- |
 | [0002-add-two-numbers](https://github.com/aniketpal15/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aniketpal15/LeetCode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/aniketpal15/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/aniketpal15/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/aniketpal15/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aniketpal15/LeetCode/tree/master/0070-climbing-stairs) |
@@ -79,6 +80,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/aniketpal15/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/aniketpal15/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/0020-valid-parentheses) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniketpal15/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Two Pointers
@@ -126,6 +128,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aniketpal15/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/aniketpal15/LeetCode/tree/master/0012-integer-to-roman) |
 | [1331-rank-transform-of-an-array](https://github.com/aniketpal15/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aniketpal15/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aniketpal15/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
