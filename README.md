@@ -50,6 +50,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aniketpal15/LeetCode/tree/master/0015-3sum) |
 | [1331-rank-transform-of-an-array](https://github.com/aniketpal15/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/aniketpal15/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniketpal15/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -58,6 +59,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | ------- |
 | [0001-two-sum](https://github.com/aniketpal15/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aniketpal15/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aniketpal15/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aniketpal15/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aniketpal15/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/aniketpal15/LeetCode/tree/master/0055-jump-game) |
@@ -90,6 +92,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aniketpal15/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aniketpal15/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aniketpal15/LeetCode/tree/master/0042-trapping-rain-water) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniketpal15/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
