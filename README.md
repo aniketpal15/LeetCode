@@ -56,6 +56,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [0016-3sum-closest](https://github.com/aniketpal15/LeetCode/tree/master/0016-3sum-closest) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniketpal15/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/aniketpal15/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniketpal15/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/aniketpal15/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniketpal15/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -71,6 +72,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [0055-jump-game](https://github.com/aniketpal15/LeetCode/tree/master/0055-jump-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniketpal15/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/aniketpal15/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniketpal15/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aniketpal15/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aniketpal15/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aniketpal15/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -203,4 +205,8 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aniketpal15/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniketpal15/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
