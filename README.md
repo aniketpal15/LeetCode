@@ -41,6 +41,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [0048-rotate-image](https://github.com/aniketpal15/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/aniketpal15/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aniketpal15/LeetCode/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/aniketpal15/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniketpal15/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aniketpal15/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aniketpal15/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -74,6 +75,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [0042-trapping-rain-water](https://github.com/aniketpal15/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aniketpal15/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/aniketpal15/LeetCode/tree/master/0055-jump-game) |
+| [0486-predict-the-winner](https://github.com/aniketpal15/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniketpal15/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/aniketpal15/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniketpal15/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -133,6 +135,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [0055-jump-game](https://github.com/aniketpal15/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aniketpal15/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aniketpal15/LeetCode/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/aniketpal15/LeetCode/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aniketpal15/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Stack
 |  |
@@ -204,6 +207,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aniketpal15/LeetCode/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/aniketpal15/LeetCode/tree/master/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -234,4 +238,8 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketpal15/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/aniketpal15/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
