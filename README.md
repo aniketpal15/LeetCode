@@ -196,6 +196,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 ## Graph Theory
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/aniketpal15/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aniketpal15/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Number Theory
 |  |
@@ -253,4 +254,12 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [0486-predict-the-winner](https://github.com/aniketpal15/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aniketpal15/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aniketpal15/LeetCode/tree/master/1406-stone-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/aniketpal15/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/aniketpal15/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
