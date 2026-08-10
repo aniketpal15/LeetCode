@@ -112,6 +112,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketpal15/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/aniketpal15/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/aniketpal15/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/aniketpal15/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/0020-valid-parentheses) |
@@ -127,6 +128,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aniketpal15/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aniketpal15/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aniketpal15/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aniketpal15/LeetCode/tree/master/0016-3sum-closest) |
@@ -146,6 +148,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aniketpal15/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/aniketpal15/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/aniketpal15/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aniketpal15/LeetCode/tree/master/0062-unique-paths) |
@@ -295,4 +298,8 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aniketpal15/LeetCode/tree/master/1510-stone-game-iv) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aniketpal15/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
