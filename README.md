@@ -89,6 +89,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [1406-stone-game-iii](https://github.com/aniketpal15/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniketpal15/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aniketpal15/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aniketpal15/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniketpal15/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aniketpal15/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aniketpal15/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -120,6 +121,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [0012-integer-to-roman](https://github.com/aniketpal15/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aniketpal15/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aniketpal15/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aniketpal15/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniketpal15/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniketpal15/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -228,6 +230,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aniketpal15/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniketpal15/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Linked List
 |  |
@@ -308,4 +311,8 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aniketpal15/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aniketpal15/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
