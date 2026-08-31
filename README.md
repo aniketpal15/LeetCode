@@ -280,6 +280,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aniketpal15/LeetCode/tree/master/0002-add-two-numbers) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aniketpal15/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
