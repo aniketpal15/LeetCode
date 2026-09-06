@@ -150,6 +150,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [0010-regular-expression-matching](https://github.com/aniketpal15/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/aniketpal15/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/aniketpal15/LeetCode/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aniketpal15/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/aniketpal15/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aniketpal15/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -199,6 +200,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [0055-jump-game](https://github.com/aniketpal15/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aniketpal15/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aniketpal15/LeetCode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/aniketpal15/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/aniketpal15/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aniketpal15/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aniketpal15/LeetCode/tree/master/1406-stone-game-iii) |
