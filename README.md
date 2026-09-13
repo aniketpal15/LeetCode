@@ -95,6 +95,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [0055-jump-game](https://github.com/aniketpal15/LeetCode/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/aniketpal15/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniketpal15/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/aniketpal15/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/aniketpal15/LeetCode/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/aniketpal15/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/aniketpal15/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -233,6 +234,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aniketpal15/LeetCode/tree/master/0048-rotate-image) |
+| [0835-image-overlap](https://github.com/aniketpal15/LeetCode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aniketpal15/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Memoization
 |  |
