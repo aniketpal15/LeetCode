@@ -117,6 +117,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aniketpal15/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aniketpal15/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aniketpal15/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aniketpal15/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aniketpal15/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniketpal15/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aniketpal15/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -242,6 +243,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [1563-stone-game-v](https://github.com/aniketpal15/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aniketpal15/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/aniketpal15/LeetCode/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aniketpal15/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aniketpal15/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniketpal15/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aniketpal15/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -266,6 +268,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | ------- |
 | [0048-rotate-image](https://github.com/aniketpal15/LeetCode/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/aniketpal15/LeetCode/tree/master/0835-image-overlap) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aniketpal15/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aniketpal15/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Memoization
 |  |
@@ -466,4 +469,5 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aniketpal15/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
