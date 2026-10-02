@@ -172,6 +172,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [0010-regular-expression-matching](https://github.com/aniketpal15/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/aniketpal15/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/aniketpal15/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/aniketpal15/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aniketpal15/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -230,6 +231,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aniketpal15/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aniketpal15/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aniketpal15/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/aniketpal15/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aniketpal15/LeetCode/tree/master/0062-unique-paths) |
@@ -425,6 +427,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aniketpal15/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniketpal15/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
@@ -470,6 +473,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aniketpal15/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aniketpal15/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
