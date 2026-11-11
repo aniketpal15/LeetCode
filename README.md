@@ -68,6 +68,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [3536-maximum-product-of-two-digits](https://github.com/aniketpal15/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aniketpal15/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aniketpal15/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/aniketpal15/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniketpal15/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/aniketpal15/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aniketpal15/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -238,6 +239,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniketpal15/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniketpal15/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aniketpal15/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/aniketpal15/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
 |  |
 | ------- |
