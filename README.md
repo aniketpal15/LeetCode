@@ -48,6 +48,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [1401-circle-and-rectangle-overlapping](https://github.com/aniketpal15/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/aniketpal15/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aniketpal15/LeetCode/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aniketpal15/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/aniketpal15/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aniketpal15/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/aniketpal15/LeetCode/tree/master/1872-stone-game-viii) |
@@ -114,6 +115,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [1406-stone-game-iii](https://github.com/aniketpal15/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniketpal15/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniketpal15/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aniketpal15/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/aniketpal15/LeetCode/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketpal15/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aniketpal15/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -261,6 +263,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 | [1406-stone-game-iii](https://github.com/aniketpal15/LeetCode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniketpal15/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/aniketpal15/LeetCode/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aniketpal15/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/aniketpal15/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aniketpal15/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/aniketpal15/LeetCode/tree/master/1872-stone-game-viii) |
@@ -400,6 +403,7 @@ You can view my live statistics, badges, and current streak directly on my [Leet
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aniketpal15/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aniketpal15/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketpal15/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/aniketpal15/LeetCode/tree/master/1872-stone-game-viii) |
